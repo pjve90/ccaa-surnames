@@ -57,7 +57,7 @@
 
 - [ ] Formato correcto (vectorial donde corresponda) [@franvasestay]
 - [ ] Numeración consistente [@pvarase]
-- [ ] Referencias cruzadas correctas en el texto [@pvarase]
+- [x] Referencias cruzadas correctas en el texto [@pvarase]
 - [ ] Captions auto-contenidas y consistentes en figuras y tablas [@pvarase, @nmontalva, @mreyes]
   + [ ]  [@pvarase]
   + [x]  [@nmontalva]
@@ -91,8 +91,8 @@
 
 **listo para empezar**
 
-- [ ] Listado completo y numeración correcta [@pvarase]
-- [ ] Referencias internas correctas desde el texto [@pvarase]
+- [x] Listado completo y numeración correcta [@pvarase]
+- [x] Referencias internas correctas desde el texto [@pvarase]
 - [ ] Revisar estructura (outline) de anexos [@pvarase]
 - [ ] Figura de random plots [@franvasestay]
 
